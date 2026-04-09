@@ -1,0 +1,5 @@
+{
+  "name": "F1 Cockpit Simulator",
+  "description": "A browser-based F1 racing simulator featuring manual transmission, pit stops, and pseudo-3D track rendering.",
+  "requestFramePermissions": []
+}
